@@ -1,3 +1,4 @@
-Sorasu Writes Code.
-GPG FINGERPRINT : A2394DB2744188FE1E92756F4D7BAD4494BBE325
-EMAIL : sorasucycode@proton.me
+*Sorasu Writes Code.*  
+  
+**GPG FINGERPRINT** : A2394DB2744188FE1E92756F4D7BAD4494BBE325  
+**EMAIL** : sorasucycode@proton.me
